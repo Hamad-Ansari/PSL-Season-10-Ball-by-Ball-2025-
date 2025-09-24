@@ -3,7 +3,7 @@
 ### *Lahoer Qulander & Islamabad United*
 **Rawelpindi Cricket Stadium**
 
-Kaggle link click["https://www.kaggle.com/code/hammadansari7/psl-10-first-match-ipynb/edit"]
+Kaggle link click["https://www.kaggle.com/code/hammadansari7/psl-10-first-match-ipynb/notebook"]
 
 
  ## 🏏 Match Summary – Lahore Qalandars vs Islamabad United
